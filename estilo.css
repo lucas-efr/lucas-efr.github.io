@@ -1,0 +1,15 @@
+*
+{
+    background-color: rgb(30, 60, 90);
+}
+h1
+{
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+h2{
+    font-family: monospace;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}

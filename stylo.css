@@ -1,0 +1,39 @@
+body
+{
+    background-color:rgb(255, 255, 255);
+}
+.unodi
+{
+   margin-top: 0px;
+ 
+}
+.divdos
+{
+    text-align: justify;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(77, 75, 75);
+    margin-top: 80px;
+    font-size: 14px;
+
+
+}
+.divdos img{
+  float: left;
+  width: 700px;
+  height: 550px;
+  margin-top: -80px;
+}
+a{
+    font-size: 14px;
+    text-decoration: none;
+    background-color: rgb(180, 61, 61);
+    color: rgb(255, 255, 255);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+a:hover
+{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+
